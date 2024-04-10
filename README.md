@@ -1,5 +1,3 @@
-# EC535-Project: Air Quality Monitoring System
-
 ## Overview
 
 The Air Quality Monitoring System is an embedded system based on the BeagleBone platform, designed to monitor air quality in real-time. The system is capable of measuring various parameters, such as CO2, CO, VOC, temperature, and humidity levels, providing crucial information for maintaining a safe and healthy environment. Click [here](https://drive.google.com/file/d/1KePDqCJkiSC4MhLDxaUlnNu75CrPiMag/view?usp=share_link) to see a demo of the project.
@@ -49,9 +47,4 @@ to Generate a exectuable file **lcd**.
     `./lcd`.
 8. Enjoy the program.
 
-## Contributors
-* Ahmet Caliskan [aeclskn@bu.edu]: Qt Program
-* Qi Luo [tomqiluo@bu.edu]: Sensors
 
-## Acknowledgements
-This is our culminating project for ENG EC535. We have made this repository public in the hopes of aiding others in achieving success in embedded systems. The two of us have gained a wealth of knowledge from this course.
